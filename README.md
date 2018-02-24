@@ -1,8 +1,6 @@
 # What Do You Want
 This is a wunderlist.
 
-![give me](https://images.900.tw/upload_file/22/content/d4623563-5589-fc30-c085-fdcea734e0b2.jpg)
-
 ---
 
 想要什麼，請自行增加在 ISSUE
